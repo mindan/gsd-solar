@@ -5,4 +5,4 @@ Solar energy client for building simulator
 
 gmail accounts:
 
-almamouz@gmail.com
+almamouz(at)gmail.com
